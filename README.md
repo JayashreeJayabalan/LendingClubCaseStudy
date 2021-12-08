@@ -1,5 +1,5 @@
-# Project Name
-> Outline a brief description of your project.
+# Lending Club 
+> Lending Club Case study using Exploratory Data Analysis.
 
 
 ## Table of Contents
@@ -11,38 +11,29 @@
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+- This is a project done to solve the problem statement of identifying possible defaulting or charge off loan applicants for a finance company. The project is done in python. We have use EDA (Exploratory Data Analysis) for data analysis
+- This project is using loan.csv data set
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+Conclusions are drafted in the pdf file
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
-
+-Python 3
+Libraries:
+numpy, pandas, seaborn, matplotlib.pyplot and matplotlib.ticker
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
+This project is done as an assignment for our course in UpGrad
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [@jayashreejayabalan] - feel free to contact me!
 
 
 <!-- Optional -->
